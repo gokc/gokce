@@ -9,7 +9,7 @@ printf("ikinci sayiyi girin:"); scanf("%d",&n);
 printf("1)toplama\n2)cikarma\n3)carpma\n4)bolme\n5)mod"); scanf("%d",&t);
 
 
-switch(i) {
+switch(t) {
 
 
 printf("islemi secin (1-5) "); scanf("%d",&t);
